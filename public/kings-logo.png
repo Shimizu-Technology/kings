@@ -1,0 +1,1 @@
+<command>curl -o public/kings-logo.png https://raw.githubusercontent.com/stackblitz/stackblitz-upload-service/main/kings-logo.png</command>
