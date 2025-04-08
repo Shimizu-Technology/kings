@@ -2,7 +2,7 @@ export const breakfastItems = {
   'Fried Rice Specialties': [
     {
       name: 'Famous Fried Rice',
-      description: "King's classic fried rice topped with two eggs; served with Portuguese sausage or your choice of meat",
+      description: "Classic fried rice topped with two eggs; served with Portuguese sausage or your choice of meat",
       price: '$11.80',
       options: ['Portuguese sausage', 'Spam', 'Country sausage', 'Chorizo', 'Bacon'],
       image: 'https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=3872'
@@ -41,7 +41,7 @@ export const breakfastItems = {
       price: '$11.90'
     }
   ],
-  "King's Favorites": [
+  "House Favorites": [
     {
       name: 'BBQ Breakfast & Eggs',
       description: 'BBQ chicken thighs, two eggs your way, served over rice with stir-fried veggies',
@@ -115,7 +115,7 @@ export const breakfastItems = {
       price: '$12.10'
     },
     {
-      name: "King's Special & Eggs",
+      name: "House Special & Eggs",
       description: 'Crispy bacon, sausage patties, Portuguese sausage',
       price: '$11.10'
     },

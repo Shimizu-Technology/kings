@@ -58,7 +58,7 @@ export const specialtyItems = {
       price: '$12.90'
     }
   ],
-  'Local Favorites': [
+  'Chef Specialties': [
     {
       name: 'New York Steak and Salmon',
       price: '$29.00'
@@ -76,16 +76,16 @@ export const specialtyItems = {
       price: '$24.60'
     },
     {
-      name: 'Tinala Katne',
+      name: 'Signature Beef Dish',
       price: '$13.30'
     },
     {
-      name: 'Kadun Pika',
-      description: 'Spicy coconut milk stew',
+      name: 'Spicy Coconut Stew',
+      description: 'Rich and spicy coconut milk stew',
       price: '$15.90'
     },
     {
-      name: 'Kadon Beef Shank',
+      name: 'Braised Beef Shank',
       price: '$15.30'
     }
   ]

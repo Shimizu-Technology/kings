@@ -1,5 +1,5 @@
 export const starterItems = {
-  'Chesa & Pupus': [
+  'Appetizers & Starters': [
     {
       name: 'Crisscross Chorizo',
       description: 'Crispy crisscross fries with spicy chorizo topping, cheese, sour cream, green onions',
@@ -7,18 +7,18 @@ export const starterItems = {
       image: 'https://images.unsplash.com/photo-1600688640154-9619e002df30?auto=format&fit=crop&q=80&w=3870'
     },
     {
-      name: 'Kalua Pork Nachos Grande',
-      description: 'Seasoned kalua pork, pico de gallo, colby-jack cheese, nacho cheese, jalapeños over deep-fried tortilla chips',
+      name: 'Pulled Pork Nachos Grande',
+      description: 'Seasoned pulled pork, pico de gallo, colby-jack cheese, nacho cheese, jalapeños over deep-fried tortilla chips',
       price: '$11.60'
     },
     {
-      name: 'Pupu Combo Platter',
+      name: 'Combo Platter',
       description: 'New York steak and teriyaki chicken bites, mozzarella sticks, bell peppers, garlic bread',
       price: '$16.30'
     },
     {
-      name: 'Chesa Platter',
-      description: 'Mix of local favorites: smoked pork, chicken kelaguen, fried lumpia, deep-fried corn titiyas, more',
+      name: 'Signature Platter',
+      description: 'Mix of house favorites: smoked pork, chicken salad, fried spring rolls, corn chips, and more',
       price: '$17.40'
     },
     {
@@ -44,7 +44,7 @@ export const starterItems = {
       image: 'https://images.unsplash.com/photo-1512852939750-1305098529bf?auto=format&fit=crop&q=80&w=3870'
     },
     {
-      name: "King's Wedge Salad",
+      name: "House Wedge Salad",
       description: 'Crisp iceberg lettuce wedge with bacon, tomatoes, red onions, and bleu cheese crumbles',
       price: '$10.20'
     },
